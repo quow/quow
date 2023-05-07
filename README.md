@@ -4,7 +4,7 @@
 
 **I write quality code that's easy to test, deploy and maintain.**
 
-Hello o/  
+
 I'm quow, a Developer with 3 Years of Experience. I love learning and passing my knowledge on.
 
 <br>
@@ -29,8 +29,8 @@ I'm open to work on projects.
 - If you're interested in working on an Open Source Project together, or have a question, feel free to hit me up :)
 
 
-📧 - [thedarkdraconian [at] gmail.com](mailto://thedarkdraconian@gmail.com) (Email)  
-💬 - [TheOnlyWayUp#1231](https://discord.com/users/876055467678375998) (Discord)
+📧 - [quow [at] fbi.ac](mailto://quow@fbi.ac) (Email)  
+💬 - [bau#1337](https://discord.dog/users/1083540877244375111) (Discord)
 
 
 </p></div>
