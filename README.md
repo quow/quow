@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40quow+-+divine+intellect+-+officialgithub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40quow+-+divine+intellect+-+official." alt="Typing SVG" />
 <br><br>
 
 **I write quality code that's easy to test, deploy and maintain.**
 
 Hello o/  
-I'm TheOnlyWayUp, a Full-Stack Developer with 8 Years of Experience. I love learning and passing my knowledge on.
+I'm quow, a Developer with 3 Years of Experience. I love learning and passing my knowledge on.
 
 <br>
 
