@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=250&center=true&multiline=true&width=435&lines=%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%8E%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%B2%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%94%F0%9D%90%A9;%F0%9D%98%97%F0%9D%98%B6%F0%9D%98%B3%F0%9D%98%B4%F0%9D%98%B6%F0%9D%98%AA%F0%9D%98%B5+%F0%9D%98%B0%F0%9D%98%A7+%F0%9D%98%97%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%A7%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%B5%F0%9D%98%AA%F0%9D%98%B0%F0%9D%98%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40quow+-+divine+intellect+)](https://git.io/typing-svg" alt="Typing SVG" />
 <br><br>
 
 **I write quality code that's easy to test, deploy and maintain.**
