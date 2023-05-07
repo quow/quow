@@ -45,8 +45,8 @@ I'm open to work on projects.
 
 <h3>Working on:</h3>
 
-- Machine Learning
-    <p><details><summary>Tagging Job Posts with NLP</summary>Automatically tag Job Posts based on what Skills are Required, Whether the job is Remote/Hybrid/Onsite and the years of experience required. Automatically send Resumes to relevant Postings.</details></p>
+- Xinupus Obfuscator
+    <p><details><summary>Paid Multi-Layer Python Obfuscator</summary>Automatically tag Job Posts based on what Skills are Required, Whether the job is Remote/Hybrid/Onsite and the years of experience required. Automatically send Resumes to relevant Postings.</details></p>
     <p><details><summary>Automatic Assessment Evaluation (OCR, NLP)</summary>Scan a textbook PDF and get the perfect answer for any Question (taking into account the length required, marks allocated, etc.). Assist Educators with this Tiresome task by displaying a measure of accuracy between the Student's answer and variations of the textbook content.</details></p>
 - Learning
     - [SvelteKit](https://kit.svelte.dev)
